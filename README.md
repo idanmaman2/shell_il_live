@@ -14,8 +14,9 @@ just enter regularly to the website ...
 <img width="1466" alt="Screenshot 2023-10-10 at 11 22 53" src="https://github.com/idanmaman2/shell_il_live/assets/90776557/f6b753f4-5bf9-4bb6-abe2-e6fed9b080bd">
 
 ![Screenshot 2023-10-09 at 19 39 12](https://github.com/idanmaman2/shell_il_live/assets/90776557/e2a5f056-ec4d-4b61-932b-b0adb23991df)
+<img width="490" alt="Screenshot 2023-10-12 at 14 02 02" src="https://github.com/idanmaman2/shell_il_live/assets/90776557/59e91340-4dcd-42f3-8bed-e88dc995931f">
 
-<img width="585" alt="Screenshot 2023-10-10 at 23 53 33" src="https://github.com/idanmaman2/shell_il_live/assets/90776557/a162f263-1395-4162-8d4e-58d449ed5fc9">
+
 
 
 ## the way that chrome's version works is a bit diffent because it doesnt support `multipart/x-mixed-replace`
