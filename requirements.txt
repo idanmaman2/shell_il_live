@@ -1,0 +1,10 @@
+asyncio
+fastapi
+uvicorn
+telethon
+termcolor
+httpx
+python-dotenv
+Jinja2
+python-socketio[client]
+python-socketio[asyncio_client]

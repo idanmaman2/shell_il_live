@@ -1,0 +1,41 @@
+<html>  
+    <head>
+        <meta http-equiv="refresh" content="3600">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://cdn.tailwindcss.com"></script>
+    </head>
+    <body>
+            <script type="application/javascript">
+                console.log("dash"+ {{id-1}})
+                document.getElementById("dash"+ {{id-1}}).style.display = "none"; 
+            </script>
+            <div id ="dash{{id}}"> 
+                <div class="flex items-center justify-center h-[20vh]">
+                    <div class="border-blue-500 border-4 mt-3 ">
+                        <p class=" underline flex justify-center itens-center font-mono text-blue-500 m-5 sm: text-4xl md:text-5xl lg:text-6xl xl:text-7xl 2xl:text-8xl">SHELL_IL LIVE</p>      
+                    </div>   
+                </div> 
+                <p class="w-[100vw] h-[4vh]"></p> 
+                <div class="overflow-auto border-2 border-black-600 m-3 h-[70vh]"> 
+                    <ul id="messages">
+                        {% for item in messages %}
+                            <li>
+                                <div class="grid grid-cols-1 border-2 border-black-300  m-3"> 
+                                    <a class="text-red-500 text-2xl text-right" >{{ item.mtype }}</a>
+                                    <a class="text-gray-400 text-right text-md ">{{ item.title }} </a>
+                                    <a class="text-right text-sm ">{{ item.time_stamp.strftime('%d/%m/%Y, %H:%M') }}</a>
+                                </div> 
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </div> 
+
+            </div> 
+
+ 
+
+      
+        
+
+</html>

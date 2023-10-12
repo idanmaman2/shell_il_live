@@ -1,0 +1,6 @@
+
+class WallaClient: 
+    def __init__(self): 
+        ...
+    def parse(): 
+        ... 
