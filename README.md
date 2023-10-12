@@ -1,4 +1,4 @@
-# shell_il_live
+<img width="1470" alt="Screenshot 2023-10-10 at 2 08 09" src="https://github.com/idanmaman2/shell_il_live/assets/90776557/b25ba2dc-2176-4f5a-abee-f391f3fb8011"><img width="1465" alt="Screenshot 2023-10-10 at 2 08 13" src="https://github.com/idanmaman2/shell_il_live/assets/90776557/b8237af0-c6c8-4f4b-bcc2-9a17d8fdda56"># shell_il_live
 # stay updated in *live* on the war when you are in the shell or on our website (and in the future telegram bot) 
 
 # How to use : 
@@ -9,17 +9,17 @@ you can create them here : ```https://my.telegram.org``` `=> Api development too
 ```curl <ip> ```
 ## Website version 
 just enter regularly to the website ... 
+<img width="1465" alt="Screenshot 2023-10-10 at 2 08 13" src="https://github.com/idanmaman2/shell_il_live/assets/90776557/7bf07bde-5b86-46a2-ac10-ec60d9935422">
 
+<img width="1466" alt="Screenshot 2023-10-10 at 11 22 53" src="https://github.com/idanmaman2/shell_il_live/assets/90776557/f6b753f4-5bf9-4bb6-abe2-e6fed9b080bd">
 
-![Screenshot 2023-10-09 at 20 09 14](https://github.com/idanmaman2/shell_il_live/assets/90776557/81d0b154-866c-4e38-85e3-d4072326a6bc)
-<img width="1468" alt="Screenshot 2023-10-10 at 21 00 51" src="https://github.com/idanmaman2/shell_il_live/assets/90776557/0e3ff3f7-c86a-48ea-b3cb-9f91d6f97224">
-![Screenshot 2023-10-10 at 21 01 23](https://github.com/idanmaman2/shell_il_live/assets/90776557/ca37f9ba-b540-433f-8aca-e11bac8c818e)
-<img width="516" alt="Screenshot 2023-10-11 at 0 52 04" src="https://github.com/idanmaman2/shell_il_live/assets/90776557/f414156a-bb5b-4ae2-bcd6-7639732932e5">
-![image](https://github.com/idanmaman2/shell_il_live/assets/90776557/165b2975-cd11-4f04-aee5-66b86f73c329)
+![Screenshot 2023-10-09 at 19 39 12](https://github.com/idanmaman2/shell_il_live/assets/90776557/e2a5f056-ec4d-4b61-932b-b0adb23991df)
+
+<img width="585" alt="Screenshot 2023-10-10 at 23 53 33" src="https://github.com/idanmaman2/shell_il_live/assets/90776557/a162f263-1395-4162-8d4e-58d449ed5fc9">
+
 
 ## the way that chrome's version works is a bit diffent because it doesnt support `multipart/x-mixed-replace`
 
-<img width="1466" alt="Screenshot 2023-10-10 at 21 01 01" src="https://github.com/idanmaman2/shell_il_live/assets/90776557/faf1f0fe-9b7b-4364-a3a5-1a44d1729c8a">
 
 # SO HOW IT WORKS ? 
 
